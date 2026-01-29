@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 # ATM Simulation Program
 # This program allows a user to check balance, deposit money, and withdraw money
 
@@ -65,7 +59,6 @@ while True:
         print("Invalid choice. Please try again.")
 
 
-# In[ ]:
 
 
 
